@@ -1,1 +1,2 @@
 Cette classe Vehicle, développée en p5.js, simule le comportement autonome d'agents biologiques. Chaque véhicule évolue dans un environnement en cherchant de la nourriture, évitant les poisons et les obstacles, tout en s'adaptant grâce à des traits génétiques . Les agents ont une durée de vie limitée, peuvent se reproduire aléatoirement et changent de couleur en fonction de leur état de santé. Ils respectent également les limites de l'écran pour éviter de sortir du cadre.
+lien pour la simulation:   https://younesdaha.github.io/Miaw.io/
